@@ -1,0 +1,1 @@
+<input  type="button" value="ok" onclick="alert('gracias')" />
